@@ -7,7 +7,7 @@
 * 他的实验室发现了5-氮杂胞苷(5-aza)对胞嘧啶甲基化的影响，他首先建立了DNA甲基化，基因表达和分化之间的联系。他开创了表观遗传学领域，尤其是表观遗传学在癌症中的作用，并帮助开发了新的癌症疗法。 Jones博士是美国癌症研究协会的前任主席，AACR学院的院士，美国科学促进会的院士，美国国家科学院院士和美国癌症学会院士艺术与科学。
 * 他发表了300多篇科学论文，并获得了多项荣誉，其中包括美国国家癌症研究所的杰出研究者资助。他和他的同事Stephen Baylin博士于2009年获得了美国癌症研究协会（AACR）颁发的Kirk A. Landon癌症基础研究奖，并于2011年获得了美国癌症协会的荣誉勋章。 
 
-#### 发表论文描述
+#### 论文概述
 * Peter A Jones在领域内成名已久(美国科学院院士，a member of the National Academy of Sciences)，有25篇影响因子>15的第一通讯文章(其中一部分是comment和review)。时间跨度1979 - 2020，将其在领域内的重要贡献按时间简要梳理如下：
 * 1979年，Peter A Jones组用5aza处理小鼠10T1/2和3T3细胞。生成了三种新的间充质表型。
 >Taylor SM, Jones PA. Multiple new phenotypes induced in 10T1/2 and 3T3 cells treated with 5-azacytidine. Cell. 1979 Aug;17(4):771-9. doi: 10.1016/0092-8674(79)90317-9. PMID: 90553.
