@@ -1,2 +1,23 @@
-# Researchers
-Introduction of researchers
+* 了解领域前辈的成长轨迹对于我自己的人生规划以及研究方向的确定有一定的帮助。因此，我在这个目录下，简要记录了领域内的他们的研究方向、履历，也是对于自己的一个鞭策和鼓励。
+* 目前我个人的计划是在未来10~20年的研究方向定在计算癌症表观遗传学方向上，因此，我主要关注的是生物信息(计算生物学)和(癌症)表观遗传学领域的各个前辈，了解他们在领域内所做的贡献，学习他们的经验，进而帮助我自己在领域内也做出自己的一份贡献。
+
+### 表观遗传学
+* Peter A Jones：美国科学院院士，发现了5-氮杂胞苷(5-aza)对胞嘧啶甲基化的影响，并应用5-aza到癌症的治疗当中。
+* Dirk Schübeler：
+* Joseph Ecker：
+* Bing Ren：
+* Richard Young：
+* Goodell
+
+### 生物信息学
+* 王艇：
+* 刘晓乐：
+* 李蔚：
+* Andrew Smith
+
+### 肿瘤
+* Stefan Pfister
+* Peter Litcher
+* Timothy Chan
+
+…… ……
